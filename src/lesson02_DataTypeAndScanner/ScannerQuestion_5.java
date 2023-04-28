@@ -12,9 +12,9 @@ public class ScannerQuestion_5 {
         int num1 = input.nextInt();
         int num2 = input.nextInt();
 
-        int bos = num1;
+        int empty = num1;
         num1 = num2;
-        num2 = bos;
+        num2 = empty;
 
         System.out.println("Num1 " + num1 + " num2 " + num2);
     }
