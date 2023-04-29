@@ -3,7 +3,7 @@ package lesson04_MathematicalIncrementDecrement;
 public class PostAndPre_Incre_Decre {
     public static void main(String[] args) {
 
-        //        int a = 20;
+//        int a = 20;
 //        int b = 20;
 //
 //        // Post increment (a++) evel kod isleyir sonra artiri
@@ -18,8 +18,8 @@ public class PostAndPre_Incre_Decre {
 //        int f = ++d;
 //
 //        System.out.println("a: " + c + ", d: " + d + ", f: " + f );
-
-
+//
+//
 //        int a = 10;
 //        int b = a++;
 //        System.out.println("a: " + a);
