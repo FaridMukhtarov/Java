@@ -13,5 +13,10 @@ public class Manipulation_equals {
 
         System.out.println(str1.equals(str2)); // False
         System.out.println(str1.equals(str3)); // True
+
+        // Normalda non-Primitive data novleri object-ler new keword-u ile yaradilir
+
+        // equals methodu sadece deyerlere baxar
+        // == ise hem deyerlere hemde referanslara baxar
     }
 }
