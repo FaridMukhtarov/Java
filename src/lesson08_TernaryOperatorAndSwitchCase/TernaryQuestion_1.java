@@ -2,7 +2,7 @@ package lesson08_TernaryOperatorAndSwitchCase;
 
 import java.util.Scanner;
 
-public class Ternary_1 {
+public class TernaryQuestion_1 {
     public static void main(String[] args) {
 
         // istifadeciden bir sayi al

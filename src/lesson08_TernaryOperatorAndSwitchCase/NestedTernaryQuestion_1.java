@@ -1,6 +1,6 @@
 package lesson08_TernaryOperatorAndSwitchCase;
 
-public class NestedTernary_1 {
+public class NestedTernaryQuestion_1 {
     public static void main(String[] args) {
 
         int say = -444;

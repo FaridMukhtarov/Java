@@ -1,6 +1,6 @@
 package lesson08_TernaryOperatorAndSwitchCase;
 
-public class Ternary_5 {
+public class TernaryQuestion_5 {
     public static void main(String[] args) {
 
         // isdifadeciden iki sayi al ve boyuk olmayan sayini ekrana yazdir

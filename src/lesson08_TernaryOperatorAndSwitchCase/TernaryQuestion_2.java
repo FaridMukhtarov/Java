@@ -1,6 +1,6 @@
 package lesson08_TernaryOperatorAndSwitchCase;
 
-public class Ternary_2 {
+public class TernaryQuestion_2 {
     public static void main(String[] args) {
 
         String str1 = "Ali";

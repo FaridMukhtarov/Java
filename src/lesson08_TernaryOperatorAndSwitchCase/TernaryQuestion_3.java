@@ -1,6 +1,6 @@
 package lesson08_TernaryOperatorAndSwitchCase;
 
-public class Ternary_3 {
+public class TernaryQuestion_3 {
     public static void main(String[] args) {
 
         // Ternary Operator tek istifade  edile bilmez

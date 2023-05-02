@@ -2,7 +2,7 @@ package lesson08_TernaryOperatorAndSwitchCase;
 
 import java.util.Scanner;
 
-public class NestedTernary_2 {
+public class NestedTernaryQuestion_2 {
     public static void main(String[] args) {
 
         // Istifadeciden bir tam reqem alin

@@ -2,7 +2,7 @@ package lesson08_TernaryOperatorAndSwitchCase;
 
 import java.util.Scanner;
 
-public class Ternary_4 {
+public class TernaryQuestion_4 {
     public static void main(String[] args) {
 
         // Istifadeciden bir Ucbucaqin  3 kenar uzunlugunu al
