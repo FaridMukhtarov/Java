@@ -1,6 +1,6 @@
 package lesson09_StringManipulations;
 
-public class Question_replaceAll {
+public class StringManipulationQuestion_4 {
     public static void main(String[] args) {
 
         // istifadecinin girdiyi cumlede
