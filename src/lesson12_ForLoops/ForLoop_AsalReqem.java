@@ -3,21 +3,22 @@ package lesson12_ForLoops;
 public class ForLoop_AsalReqem {
     public static void main(String[] args) {
 
-        // verilen bir reqemin asal sayil olub olmadigini yazdir
+        // istifadecinin verdiyi  bir reqemin asal olub olmadigini tap
+        // asal sayi: 1 ve ozunden basqa tamreqeme tam bolunmeyen reqemdir
+
 
         int sayi = 91;
         boolean asalmi = true;
 
         for (int i = 2; i < sayi; i++) {
-            System.out.println("Yoxla " + i);
             if (sayi % i == 0) {
                 asalmi = false;
                 break;
             }
         }
         if (asalmi){
-            System.out.println("Sayi asal");
+            System.out.println("Asal reqem");
         }else
-            System.out.println("Asal deyil");
+            System.out.println("Asal Reqem deyil");
     }
 }
