@@ -2,7 +2,7 @@ package AdditionalQuestions;
 
 import java.util.Scanner;
 
-public class Question_4 {
+public class DataCastingQuestion_4 {
     public static void main(String[] args) {
 
         // İstifadəçidən iki qoşa ədəd alın, birinci ədədi ikinci ədədə bölün

@@ -2,7 +2,7 @@ package AdditionalQuestions;
 
 import java.util.Scanner;
 
-public class Question_1 {
+public class DataCastingQuestion_1 {
     public static void main(String[] args) {
 
         // int kimi daxil edilmiş 3 dəyərin ortasını double olaraq çap edən kod yazın

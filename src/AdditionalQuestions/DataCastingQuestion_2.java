@@ -2,7 +2,7 @@ package AdditionalQuestions;
 
 import java.util.Scanner;
 
-public class Question_2 {
+public class DataCastingQuestion_2 {
     public static void main(String[] args) {
 
         // İstifadəçidən bir herif al və əlifbada növbəti 3 hərfi çap edin.

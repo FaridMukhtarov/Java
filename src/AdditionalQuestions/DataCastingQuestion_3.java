@@ -2,7 +2,7 @@ package AdditionalQuestions;
 
 import java.util.Scanner;
 
-public class Question_3 {
+public class DataCastingQuestion_3 {
     public static void main(String[] args) {
 
         // İstifadəçidən reqem alın, istifadəçi nə daxil etsə də, -128 ve

@@ -2,7 +2,7 @@ package AdditionalQuestions;
 
 import java.util.Scanner;
 
-public class Question_5 {
+public class DataCastingQuestion_5 {
     public static void main(String[] args) {
 
         // İstifadəçidən ondaliqli ve tam ədəd alın, ondaliqli ədədi ikinci ədədə bölün
