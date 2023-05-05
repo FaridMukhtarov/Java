@@ -21,6 +21,6 @@ public class MethodCreation_2 {
         double sayi2 = input.nextDouble();
 
         double toplama = sayi1+sayi2;
-        System.out.print("Daxil edilen reqemlerin toplami : " + toplama);
+        System.out.println("Daxil edilen reqemlerin toplami : " + toplama);
     }
 }

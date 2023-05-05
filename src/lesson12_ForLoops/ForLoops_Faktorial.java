@@ -10,7 +10,7 @@ public class ForLoops_Faktorial {
         int faktorial = 1;
 
         for (int i = reqem; i >= 1 ; i--) {
-            faktorial = faktorial * i;
+            faktorial *= i;
         }
 
         System.out.println(faktorial);
