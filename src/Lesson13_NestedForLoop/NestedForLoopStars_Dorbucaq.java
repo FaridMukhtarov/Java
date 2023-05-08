@@ -1,4 +1,4 @@
-package Lesson13_NestedForLoop_MethodCreation;
+package Lesson13_NestedForLoop;
 
 public class NestedForLoopStars_Dorbucaq {
     public static void main(String[] args) {

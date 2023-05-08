@@ -1,4 +1,4 @@
-package Lesson13_NestedForLoop_MethodCreation;
+package Lesson13_NestedForLoop;
 
 public class NestedForLoop {
     public static void main(String[] args) {
