@@ -18,5 +18,13 @@ public class ArraysStringSplitMethod {
 
         String[] heclik = kesme.split("");
         System.out.println(Arrays.toString(heclik)); // [J, a, v, a,  , G, o, z, e, l, d, i, r, ,,  , V, e,  , O, y, r, e, n, e, c, e, m]
+
+        int count = 0;
+        for (int i = 0; i < heclik.length; i++) {
+            if (heclik[i].equals("e")){
+                count++;
+            }
+        }
+        System.out.println(count + " eded (e) var");
     }
 }
