@@ -16,6 +16,5 @@ public class ArrayElementCemi {
             cem += array[i];
         }
         System.out.println("Array-deki elementlerin cemi: " + cem);
-
     }
 }
