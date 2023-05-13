@@ -3,6 +3,11 @@ package lesson22_ForEachLoop;
 public class ForEachLoop {
     public static void main(String[] args) {
 
+        // for each loop kullandigimizda 3 unsura dikkat etmek gerekiyor
+        //  Her bir elementin data type ( int )
+        //  her bir elemente ortak isim ( each )
+        //  elementlerin geldigi kaynak ( arr )
+
         int[] arr = {3,6,2,4,9,0};
         int toplama = 0;
 
