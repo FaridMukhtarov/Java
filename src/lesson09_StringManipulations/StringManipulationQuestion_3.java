@@ -18,9 +18,9 @@ public class StringManipulationQuestion_3 {
             int firstIndex = cumle.indexOf(metin); // 5
             int secondIndex = cumle.lastIndexOf(metin, firstIndex + 1); // ya -1 yada index olacaq
             if (secondIndex == -1) {
-                System.out.println("cumled metin birden cox var ");
-            } else {
                 System.out.println("cumlede metin sadece 1 eded var");
+            } else {
+                System.out.println("cumled metin birden cox var ");
             }
         }
     }

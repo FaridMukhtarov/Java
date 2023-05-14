@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Constructor {
     public static void main(String[] args) {
 
-        // Java-da Constructor, class-in obyekti yaradılan zaman çağırılan xüsusi bir metoddur.
+        // Java-da Constructor, bir class-in obyekti yaradılan zaman çağırılan xüsusi bir metoddur.
         // Constructor-in adı Class adı ilə eynidir və return type yoxdur.
         // Constructor Class-in xassələrini işə salmaq üçün istifadə olunur.
         // Eğer bir Class üçün constructor təyin edilməmişdirsə,
