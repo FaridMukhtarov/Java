@@ -14,7 +14,7 @@ public class StaticKeyword {
 
         // Java dilində static Keyword Class-in özünə aid olan Class Variable-larini və
         // metodlarını təyin etmək üçün istifadə olunur.
-        // O, Class-in konkret obyektine deyil, Class-a aiddir.
+        // Static keyword, Class-in konkret obyektine deyil, Class-a aiddir.
     }
 
     // Burada, static Keyword-un Java-da variable ilə necə istifadə edildiyini göstərən bir nümunədir:
