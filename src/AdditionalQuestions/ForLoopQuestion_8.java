@@ -1,5 +1,7 @@
 package AdditionalQuestions;
 
+import java.util.Scanner;
+
 public class ForLoopQuestion_8 {
     public static void main(String[] args) {
 
@@ -7,5 +9,7 @@ public class ForLoopQuestion_8 {
         // -3 ile bolunebilen bir sayiya gelirse, sayi yerine fizz
         // -5 ile bolunebilen bir sayiya gelirse sayi yerine buzz
         // -hem 3 hem 5 ile bolunebilen bir sayiya gelirse sayi yerine fizzBuzz yazdirin
+
+
     }
 }

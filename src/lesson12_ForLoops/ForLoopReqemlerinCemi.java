@@ -18,7 +18,7 @@ public class ForLoopReqemlerinCemi {
 //        System.out.println("Reqemler Cemi: " +reqemlerCemi);
 
 
-        int reqem = 1453;
+        int reqem = 2222;
         String reqemStr = String.valueOf(reqem);
         int birler = 0;
         int reqemlerToplami = 0;

@@ -1,6 +1,6 @@
 package lesson35_Exceptions;
 
-public class Exceptions {
+public class  Exceptions {
     public static void main(String[] args) {
 
         /*
@@ -26,6 +26,15 @@ public class Exceptions {
         Java-da istisnalar (exceptions) da "Throw" açar sözü ilə əl ilə Yaradila biliner və "throw" açar sözü ilə funksiyalar
         tərəfindən atılır. Bu, funksiyaya potensial olaraq baş verən istisnaları bildirməyə imkan verir və bu funksiyanın
         çağırıldığı yerdə istisnaları (exceptions) idarə etmək üçün addımlar atmağa imkan verir.
+
+
+        // FileNotFoundException
+        // IOException
+        // RunTimeException
+        // Exception
+        // ArithmeticException
+        // InputMisMatchException
+
          */
 
         int a = 5;

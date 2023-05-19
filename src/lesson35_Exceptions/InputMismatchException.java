@@ -18,6 +18,7 @@ public class InputMismatchException {
 
         try {
             int reqem = input.nextInt();
+            System.out.print("Daxil edilen reqemin karesi: " + reqem * reqem);
 
              /*
                 Eger ondalikli sayi girilirse 21.setir exception verecek ve
@@ -27,9 +28,6 @@ public class InputMismatchException {
                 biz de exception yaradildiginda  yeniden method'u isletdik
                 sehv olmazsa catch bloku islemez ve kod normal bir sekilde biter
              */
-
-            System.out.print("Daxil edilen reqemin karesi: ");
-            System.out.println(reqem * reqem);
         } catch (java.util.InputMismatchException e) {
             System.out.println("Tam sayi deyeri gir dedik :) ");
             sayiAlKaresiniYazdir();
