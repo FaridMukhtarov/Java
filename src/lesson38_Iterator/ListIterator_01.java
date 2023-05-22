@@ -42,7 +42,7 @@ public class ListIterator_01 {
 
         // eger iterator'i harda buraxtigimizi xatirlamasaq
         // iterator.nextIndex() ile hansi index'in evelinde oldugumuzu gorbilerik
-        System.out.println("");
+        System.out.println();
         System.out.println(lit1.nextIndex()); // 0
 
         // iterator istifade edrek, listenin butun elementlerini 5 artirin

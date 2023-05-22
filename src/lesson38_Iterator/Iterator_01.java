@@ -40,7 +40,7 @@ public class Iterator_01 {
             System.out.print(reqem + " ");
         }
 
-        System.out.println("");
+        System.out.println();
 
         // index istifade etmeden listin butun elementlerini 1 artir
         // index istifade etmeden 25 den boyuk reqemleri silin
@@ -49,7 +49,7 @@ public class Iterator_01 {
             System.out.print(reqem +1 + " ");
         }
 
-        System.out.println("");
+        System.out.println();
         System.out.print(remler); // [10, 20, 30, 40, 50]
 
 
