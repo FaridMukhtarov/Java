@@ -1,7 +1,6 @@
-package TheEnd_lesson42_Streams;
+package lesson42_Streams_TheEnd;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 
 public class StreamsPractice {
@@ -65,6 +64,8 @@ public class StreamsPractice {
         // anyMatch elementin olub olmadigin yoxlayir
         // boolean control = integers.stream().anyMatch(i -> i == 4);
         // System.out.println(control);
+
+        // son :)
 
 
 
